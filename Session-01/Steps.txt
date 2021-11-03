@@ -1,0 +1,10 @@
+01 - Explain the architecture of grphql
+02 - Setup a demo of product catalogue domain model
+03 - Build a first grpahql query api
+	01- Setup environment(set up and configure)
+	02- Build a Query
+	03- Explain Banana Cake Pop
+	04- Execute a GraphQL query
+	05- Build a Mutation
+	06- Execute a GraphQL mutation
+
