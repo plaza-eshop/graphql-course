@@ -1,0 +1,13 @@
+01- backing classes, lists, enums
+02- ObjectType: override configuration
+03- register types
+04- multiple definition of same ObjectType<T>
+05- binding behavior at startupt/type
+06- ignore fields
+07- include/adding fields (first impact with resovler)
+08- explicit field types (uuid(D),list)
+09- none null
+11- listtype
+12- enumtype
+13- generics
+14- arguments
