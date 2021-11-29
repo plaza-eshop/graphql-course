@@ -1,0 +1,12 @@
+01- extending types / ObjectTypeExtension
+02- query organization
+03- versioning
+04- resolvers:
+	04-01- regular resolvers
+	04-02- async resolvers
+	04-03- resolve with helpers (arguments)
+	04-04- dependency injection (method, constructor, context)
+	04-05- IHttpContextAccessor
+	04-06- IResolverContext
+	04-06- parent (method injection, context)
+05- data loader
